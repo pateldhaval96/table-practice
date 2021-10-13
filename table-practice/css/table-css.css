@@ -1,0 +1,127 @@
+	.dp-online-booking-main-div {
+  background-color: #f9f9f9;
+  padding-top: 50px;
+  padding-bottom: 50px
+}
+.dp-online-booking-main-div table {
+  border-spacing: 0px
+}
+.dp-online-booking-main-div table thead th {
+  border-top: 0px;
+  border-bottom: 0px
+}
+.dp-online-booking-main-div table tbody td {
+  border-top: 0px;
+  border-bottom: 0px
+}
+.dp-online-booking-main-div table tbody th {
+  border-top: 0px;
+  border-bottom: 0px
+}
+.dp-online-booking-main-div .dp-table-first-row {
+  background-color: #35b36a
+}
+.dp-online-booking-main-div .dp-table-first-row h4 {
+  font-size: 25px
+}
+.table-main-heading-div {
+  margin-bottom: 50px
+}
+.table-main-heading-div h4 {
+  font-size: 38px;
+  color: #292929;
+  text-align: center;
+  margin-bottom: 0px
+}
+.table-heading-div h4 {
+  text-align: center;
+  margin-bottom: 0px;
+  font-size: 22px;
+  font-weight: 600;
+  color: white;
+  background-color: #35b36a;
+  padding: 15px 22px;
+  font-family: 'Lato', sans-serif !important
+}
+.dp-text-color {
+  color: white;
+  text-align: center
+}
+.dp-table-second-row th:nth-child(odd) {
+  background-color: #1e3f86
+}
+.dp-table-second-row th:nth-child(even) {
+  background-color: #2955b5
+}
+.dp-online-booking-main-div table tbody tr:nth-child(odd) {
+  background-color: #d7e2fe
+}
+.dp-online-booking-main-div table tbody tr:nth-child(even) {
+  background-color: #ebf1ff
+}
+.dp-online-booking-main-div table tbody tr td {
+  color: #363638;
+  font-weight: 600;
+  font-size: 16px;
+  padding-top: 15px !important;
+  padding-bottom: 15px !important;
+  padding-left: 20px !important;
+  padding-right: 20px !important;
+  text-align: center
+}
+.dp-online-booking-main-div .dp-table-first-row th {
+  border-top: 0px;
+  border-bottom: 0px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 17px;
+  font-weight: 600
+}
+.dp-online-booking-main-div .dp-common-row td:nth-child(1) {
+  text-align: left
+}
+.dp-online-booking-main-div .dp-table-second-row th {
+  border-top: 0px;
+  border-bottom: 0px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 16px;
+  font-weight: 600
+}
+.dp-online-booking-main-div table tbody td:nth-child(1) {
+  text-align: left
+}
+.dp-second-table-first-row {
+  background-color: #f77507
+}
+.table-heading {
+  width: 100%
+}
+.dp-online-booking-table {
+  margin-bottom: 30px
+}
+.cp-plan-table h4 {
+  background-color: #f77507
+}
+.map-plan-table h4 {
+  background-color: #414141
+}
+.ap-plan-table h4 {
+  background-color: #3470f5
+}
+.off-season-main-div {
+  background-color: #fff
+}
+.dp-online-booking-main-div .common-heading-main-div h4 {
+  font-size: 36px
+}
+.dp-online-booking-main-div table th {
+  vertical-align: middle!important
+}
+.dp-online-booking-main-div table td {
+  vertical-align: middle!important
+}
